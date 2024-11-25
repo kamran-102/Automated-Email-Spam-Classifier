@@ -111,20 +111,6 @@ The project uses a variety of Python libraries:
    - The performance chart provides a detailed comparison of all models.
 
 ---
-
-## Dependencies
-- `Python 3.x`
-- Libraries:
-  - `pandas`, `scikit-learn`, `nltk`, `joblib`
-  - `matplotlib`, `seaborn`
-
-Install all dependencies using:
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Project Structure
 - **`spam_classifier.ipynb`**: Contains all functions and main code.
 - **`combined_data.csv`**: Dataset for training and testing.
